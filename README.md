@@ -1,4 +1,4 @@
 # Movie Landing Page
-## Este un proyecto para una Landing page de películas que invluye un carrusel de imágenes que a su vez cambia el fondo asociado adicha película.
+## Este un proyecto para una Landing page de películas que invluye un carrusel de imágenes que a su vez cambia el fondo asociado a dicha película.
 
 ### Link del proyecto: https://delpino10.github.io/Movie-landing-page/
